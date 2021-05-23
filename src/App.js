@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          A Sample <code>Docker and React File</code> written by Suhas.          
+          A Sample <code>Docker and React Application</code> written by Suhas.          
         </p>        
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click For Demo
+          Click Here For Demo
         </a>
       </header>
     </div>
