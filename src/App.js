@@ -7,17 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js file</code> and save to reload.
-          Awesome.
+          A Sample <code>Docker & React File</code> written by me.          
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <br>
+        <p>Suhas</p>
       </header>
     </div>
   );
