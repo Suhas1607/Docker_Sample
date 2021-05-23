@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          A Sample <code>Docker & React File</code> written by me.          
+          A Sample <code>Docker and React File</code> written by me.          
         </p>
-        <br>
+        <br></br>
         <p>Suhas</p>
       </header>
     </div>
