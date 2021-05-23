@@ -7,10 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          A Sample <code>Docker and React File</code> written by me.          
-        </p>
-        <br></br>
-        <p>Suhas</p>
+          A Sample <code>Docker and React File</code> written by Suhas.          
+        </p>        
+        <a
+          className="App-link"
+          href="lights.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Click For Demo
+        </a>
       </header>
     </div>
   );
